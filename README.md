@@ -1,4 +1,4 @@
-# Movie Intro
+# Matrixify
 
 Here's a useful command (Generates a 1280x1080 x264 mp4 @ 30 fps. Perfect for the web (<8MB & everything supports x264)):
 
